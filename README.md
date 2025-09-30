@@ -23,3 +23,11 @@ This assignment introduces you to using Markdown for communication on GitHub thr
 _Here you should put the URL of your final repository after finishing the given tutorial_
 
 <!-- This section will be automatically updated by CI when students complete the course -->
+
+
+## Course Repository URLs
+
+Here is the URL of my completed course repository:  
+
+🔗 [https://github.com/Shohjahon-Abdusamadov/spm2025-02-assignment-2-github-communicate-with-markdown-02_skills_github_Markdown_T](https://github.com/Shohjahon-Abdusamadov/spm2025-02-assignment-2-github-communicate-with-markdown-02_skills_github_Markdown_T)
+
