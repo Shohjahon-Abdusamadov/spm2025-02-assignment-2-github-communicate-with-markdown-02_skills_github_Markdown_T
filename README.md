@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Ug-tQJw-)
 # GitHub Skills - Communicate using Markdown
 
 **SPM 2025 Assignment Template**
@@ -19,7 +20,6 @@ This assignment introduces you to using Markdown for communication on GitHub thr
    - Put URL of your finished course repo under the section "Course Repository URLs" below
 
 ## Course Repository URLs
-
-_Here you should put the URL of your final repository after finishing the given tutorial_
+https://shohjahon-abdusamadov.github.io/github-pages/
 
 <!-- This section will be automatically updated by CI when students complete the course -->
